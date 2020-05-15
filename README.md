@@ -19,7 +19,7 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 ```r
 > setwd('YourPath/steroid_immune_data')
 ```
--You can use the script RF_PerTp.R to create a random forest model for each individual timepoint
+-You can use the script RF_PerTP.R to create a random forest model for each individual timepoint
 
 ```r
 > source('RF_PerTP.R')
