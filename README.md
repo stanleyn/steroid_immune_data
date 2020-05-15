@@ -25,14 +25,14 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 >source('RF_PerTP.R')
 ```
 
--When this is finished running, you can see the vector of AUCs and Wilcoxon p-values corresponding to the predictive power of the model learned for each timepoint (Pre, 1hr, 6hr, 24r, 48hr, and 2 wks after surgery)
+- When this is finished running, you can see the vector of AUCs and Wilcoxon p-values corresponding to the predictive power of the model learned for each timepoint (Pre, 1hr, 6hr, 24r, 48hr, and 2 wks after surgery)
 
--To see AUCs,
+- To see AUCs,
 
 ```r
 >AUC
 ```
--To see Wilcoxon p-values
+- To see Wilcoxon p-values
 
 ```r
 >Wilcox
