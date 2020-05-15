@@ -14,7 +14,7 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 - Before getting started, please make sure you have the following dependencies installed in R (Biobase, randomForest, pROC, plyr, foreach, doParallel, ggplot2, reshape2, plyr)
 
-- You have downloaded this directory and into some location **YourPath**. Start R, and change into the *YourPath*/Steroid_Immune directory
+- You have downloaded this directory and into some location **YourPath**. Start R, and change into the *YourPath*/steroid_immune_data directory
 
 ```r
 > setwd('YourPath/steroid_immune_data')
