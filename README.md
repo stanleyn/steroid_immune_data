@@ -32,7 +32,7 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 ```r
 > AUC
 ```
-- To see Wilcoxon p-values
+- To see Wilcoxon p-values,
 
 ```r
 > Wilcox
