@@ -1,6 +1,6 @@
 ## Purpose: 
 
-Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery.
+Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. 
 
 ## Date 
 
@@ -11,7 +11,9 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 ## Instructions
 - This code was implemented and tested in R version 3.4.4
+
 - Before getting started, please make sure you have the following dependencies installed in R (Biobase, randomForest, pROC, plyr, foreach, doParallel, ggplot2, reshape2, plyr)
+
 - You have downloaded this directory and into some location *YourPath*. Start R, and change into the *YourPath*/Steroid_Immune directory
 
 ```r
