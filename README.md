@@ -23,9 +23,10 @@ Date: May 11, 2020
 
 -You can use the script RF_PerTp.R to create a random forest model for each individual timepoint
 
-```r
+```R
 >source('RF_PerTP.R')
-```
+'''
+
 -When this is finished running, you can see the vector of AUCs and Wilcoxon p-values corresponding to the predictive power of the model learned for each timepoint (Pre, 1hr, 6hr, 24r, 48hr, and 2 wks after surgery)
 
 -To see AUCs,
