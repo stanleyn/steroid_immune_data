@@ -19,7 +19,7 @@ Date: May 11, 2020
 
 -You have downloaded this directory and into some location *YourPath*. Start R, and change into the *YourPath*/Steroid_Immune directory
 
->setwd('*YourPath*/Steroid_Immune')
+>setwd('*YourPath*/steroid_immune_data')
 
 -You can use the script RF_PerTp.R to create a random forest model for each individual timepoint
 
