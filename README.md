@@ -1,6 +1,13 @@
-Purpose: Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery.
+## Purpose: 
 
-Date: May 11, 2020
+Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery.
+
+## Date 
+
+May 11, 2020
+
+## Questions
+Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 ## Instructions
 - This code was implemented and tested in R version 3.4.4
