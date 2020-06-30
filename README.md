@@ -1,6 +1,6 @@
 ## Purpose: 
 
-Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. We used the VoPo clustering algorithm (https://github.com/stanleyn/VoPo) to generate immune features from the 331 samples available on flow repository (https://flowrepository.org/id/FR-FCM-Z2AT).
+Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. We used the VoPo clustering algorithm (https://github.com/stanleyn/VoPo) to generate immune features from the 331 samples available on flow repository (https://flowrepository.org/id/FR-FCM-Z2AT). 
 
 ## Date 
 
@@ -14,7 +14,13 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 - Before getting started, please make sure you have the following dependencies installed in R (`Biobase`, `randomForest`, `pROC`, `plyr`, `foreach`, `doParallel`, `ggplot2`, `reshape2`, `plyr`)
 
-- You have downloaded this directory and into some location **YourPath**. Start R, and change into the **YourPath** directory
+-Clone this repository
+
+```bash
+git clone https://github.com/stanleyn/steroid_immune_data
+```
+
+- You have cloned this directory and into some location **YourPath**. Start R, and change into the **YourPath** directory
 
 ```r
 > setwd('YourPath')
