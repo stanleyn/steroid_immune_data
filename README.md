@@ -37,4 +37,4 @@ Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 ```r
 > Wilcox
 ```
-- A plot of boxplots per timepoint will be generated to the main steroid_immune_data folder called steroid_classif.pdf
+- A plot of boxplots per timepoint will be generated to the main directory called `steroid_classif.pdf`
