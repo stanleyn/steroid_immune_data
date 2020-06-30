@@ -10,17 +10,17 @@ May 11, 2020
 Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 ## Instructions
-- This code was implemented and tested in R version 3.4.4 and uses randomForest version 4.6-14. 
+* This code was implemented and tested in R version 3.4.4 and uses randomForest version 4.6-14. 
 
-- Before getting started, please make sure you have the following dependencies installed in R (`Biobase`, `randomForest`, `pROC`, `plyr`, `foreach`, `doParallel`, `ggplot2`, `reshape2`, `plyr`)
+* Before getting started, please make sure you have the following dependencies installed in R (`Biobase`, `randomForest`, `pROC`, `plyr`, `foreach`, `doParallel`, `ggplot2`, `reshape2`, `plyr`)
 
--Clone this repository
+* Clone this repository
 
 ```bash
 git clone https://github.com/stanleyn/steroid_immune_data
 ```
 
-- You have cloned this directory and into some location **YourPath**. Start R, and change into the **YourPath** directory
+* You have cloned this directory and into some location **YourPath**. Start R, and change into the **YourPath** directory
 
 ```r
 > setwd('YourPath')
