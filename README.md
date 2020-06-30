@@ -1,6 +1,6 @@
 ## Purpose: 
 
-Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. 
+Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. Uses the VoPo clustering algorithm (https://github.com/stanleyn/VoPo) to generate immune features from the 331 samples available on flow repository (https://flowrepository.org/id/FR-FCM-Z2AT). 
 
 ## Date 
 
@@ -10,14 +10,14 @@ May 11, 2020
 Please contact Natalie Stanley (NatalieStanley1318@gmail.com) with any questions
 
 ## Instructions
-- This code was implemented and tested in R version 3.4.4
+- This code was implemented and tested in R version 3.4.4 and uses randomForest version 4.6-14. 
 
-- Before getting started, please make sure you have the following dependencies installed in R (Biobase, randomForest, pROC, plyr, foreach, doParallel, ggplot2, reshape2, plyr)
+- Before getting started, please make sure you have the following dependencies installed in R (`Biobase`, `randomForest`, `pROC`, `plyr`, `foreach`, `doParallel`, `ggplot2`, `reshape2`, `plyr`)
 
-- You have downloaded this directory and into some location **YourPath**. Start R, and change into the **YourPath**/steroid_immune_data directory
+- You have downloaded this directory and into some location **YourPath**. Start R, and change into the **YourPath** directory
 
 ```r
-> setwd('YourPath/steroid_immune_data')
+> setwd('YourPath')
 ```
 -You can use the script RF_PerTP.R to create a random forest model for each individual timepoint
 
