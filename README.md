@@ -1,6 +1,6 @@
 ## Purpose: 
 
-Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. Uses the VoPo clustering algorithm (https://github.com/stanleyn/VoPo) to generate immune features from the 331 samples available on flow repository (https://flowrepository.org/id/FR-FCM-Z2AT). 
+Perform computational analysis from Ganio et al. looking at the effects of steroids on the immune system after surgery. We used the VoPo clustering algorithm (https://github.com/stanleyn/VoPo) to generate immune features from the 331 samples available on flow repository (https://flowrepository.org/id/FR-FCM-Z2AT).
 
 ## Date 
 
